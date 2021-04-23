@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DemoMVVM</string>
+    <string name="title_id">ID #</string>
 </resources>
